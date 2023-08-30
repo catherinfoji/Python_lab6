@@ -1,0 +1,113 @@
+name,Fcode,diet,prep_time,cook_time,flavor_profile,course,state,rating,Price
+Balu shahi,4435,vegetarian,45,25,sweet,dessert,West Bengal,2,56
+Boondi,4656,vegetarian,80,30,sweet,dessert,Rajasthan,3,456
+Gajar ka halwa,5646,vegetarian,15,60,sweet,dessert,Punjab,2,43
+Ghevar,2523,vegetarian,15,30,sweet,dessert,Rajasthan,2,43
+Gulab jamun,5657,vegetarian,15,40,sweet,dessert,West Bengal,3,33
+Imarti,4566,vegetarian,10,50,sweet,dessert,West Bengal,4,467
+Jalebi,4554,vegetarian,10,50,sweet,dessert,Uttar Pradesh,4,765
+Kaju katli,5665,vegetarian,10,20,sweet,dessert,Punjab,5,354
+Kalakand,3343,vegetarian,20,30,sweet,dessert,West Bengal,3,5656
+Kheer,4565,vegetarian,10,40,sweet,dessert,Punjab,2,435
+Laddu,4546,vegetarian,10,40,sweet,dessert,Punjab,2,8
+Lassi,4534,vegetarian,5,5,sweet,dessert,Punjab,2,766
+Nankhatai,4543,vegetarian,20,30,sweet,dessert,Punjab,1,342
+Petha,3232,vegetarian,10,30,sweet,dessert,Uttar Pradesh,3,56
+Phirni,8986,vegetarian,30,20,sweet,dessert,Odisha,3,3243
+Rabri,5656,vegetarian,10,45,sweet,dessert,Uttar Pradesh,4,454
+Sheera,4554,vegetarian,10,25,sweet,dessert,Maharashtra,2,35
+Singori,3455,vegetarian,10,20,sweet,dessert,Uttarakhand,3,454
+Sohan halwa,4432,vegetarian,10,60,sweet,dessert,Uttar Pradesh,4,67
+Sohan papdi,2435,vegetarian,45,60,sweet,dessert,Maharashtra,2,45
+Chhena jalebi,7678,vegetarian,10,50,sweet,dessert,Odisha,3,35
+Chhena kheeri,6577,vegetarian,55,60,sweet,dessert,Odisha,4,56
+Chhena poda,4564,vegetarian,10,45,sweet,dessert,Odisha,4,34
+Cham cham,5655,vegetarian,40,60,sweet,dessert,West Bengal,5,767
+Kheer sagar,2145,vegetarian,25,60,sweet,dessert,Odisha,3,456
+Ledikeni,6768,vegetarian,45,45,sweet,dessert,West Bengal,2,67
+Lyangcha,6745,vegetarian,20,30,sweet,dessert,Assam,4,32
+Malapua,6457,vegetarian,10,120,sweet,dessert,Bihar,2,45
+Mihidana,6432,vegetarian,15,30,sweet,dessert,West Bengal,4,456
+Misti doi,6565,vegetarian,480,30,sweet,dessert,West Bengal,3,45
+Pantua,7673,vegetarian,45,45,sweet,dessert,West Bengal,4,35
+Pithe,4534,vegetarian,15,35,sweet,dessert,Assam,2,56
+Rasabali,2423,vegetarian,15,30,sweet,dessert,Odisha,1,22
+Ras malai,3243,vegetarian,180,60,sweet,dessert,West Bengal,4,34
+Rasgulla,3545,vegetarian,10,90,sweet,dessert,West Bengal,5,6757
+Sandesh,5564,vegetarian,30,20,sweet,dessert,West Bengal,2,64
+Adhirasam,6778,vegetarian,10,50,sweet,dessert,West Bengal,1,231
+Ariselu,7865,vegetarian,15,75,sweet,dessert,Andhra Pradesh,2,345
+Bandar laddu,7684,vegetarian,5,35,sweet,dessert,Andhra Pradesh,4,56
+Chikki,2432,vegetarian,10,20,sweet,dessert,Maharashtra,2,34
+Dharwad pedha,6578,vegetarian,20,60,sweet,dessert,Karnataka,1,4
+Double ka meetha,7565,vegetarian,20,30,sweet,dessert,Telangana,3,344
+Gavvalu,5674,vegetarian,10,30,sweet,dessert,Andhra Pradesh,5,435
+Kakinada khaja,4522,vegetarian,10,30,sweet,dessert,Andhra Pradesh,3,2
+Kuzhi paniyaram,3567,vegetarian,10,20,sweet,dessert,Kerala,2,24
+Mysore pak,7678,vegetarian,5,20,sweet,dessert,Karnataka,1,54
+Obbattu holige,7845,vegetarian,180,60,sweet,main course,Karnataka,3,22
+Palathalikalu,3545,vegetarian,10,25,sweet,dessert,Andhra Pradesh,4,45
+Poornalu,5767,vegetarian,240,60,sweet,dessert,Andhra Pradesh,3,54
+Pongal,5657,vegetarian,5,20,sweet,dessert,Tamil Nadu,2,54
+Pootharekulu,532,vegetarian,10,60,sweet,dessert,Andhra Pradesh,3,454
+Qubani ka meetha,4656,vegetarian,10,20,sweet,dessert,Telangana,4,545
+Sheer korma,4565,vegetarian,10,20,sweet,dessert,Telangana,3,5435
+Unni Appam,6445,vegetarian,10,20,sweet,dessert,Tamil Nadu,2,67
+Kajjikaya,4546,vegetarian,40,15,sweet,dessert,Andhra Pradesh,1,67
+Anarsa,4664,vegetarian,10,50,sweet,dessert,Maharashtra,2,767
+Basundi,4342,vegetarian,10,35,sweet,dessert,Gujarat,5,56
+Dhondas,3456,vegetarian,10,50,sweet,dessert,Maharashtra,2,675
+Doodhpak,6456,vegetarian,10,60,sweet,dessert,Gujarat,1,33
+Mahim halwa,5466,vegetarian,10,25,sweet,dessert,Maharashtra,3,46
+Modak,4567,vegetarian,10,15,sweet,dessert,Maharashtra,3,564
+Shankarpali,6767,vegetarian,10,35,sweet,dessert,Maharashtra,5,45
+Shrikhand,4563,vegetarian,10,720,sweet,dessert,Maharashtra,3,56
+Sutar feni,3546,vegetarian,15,55,sweet,dessert,Maharashtra,2,78
+Maach Jhol,3234,non vegetarian,10,40,spicy,main course,Assam,4,563
+Pork Bharta,5676,non vegetarian,5,90,spicy,main course,Tripura,2,45
+Chak Hao Kheer,1234,vegetarian,240,45,sweet,dessert,Manipur,3,35
+Galho,5322,non vegetarian,5,15,spicy,main course,Nagaland,2,67
+Aloo gobi,7765,vegetarian,10,20,spicy,main course,Punjab,4,45
+Aloo tikki,6545,vegetarian,5,20,spicy,main course,Punjab,4,23
+Aloo matar,3564,vegetarian,5,40,spicy,main course,Punjab,3,45
+Aloo methi,4563,vegetarian,10,40,bitter,main course,Punjab,3,8
+Aloo shimla mirch,3564,vegetarian,10,40,spicy,main course,Punjab,5,97
+Bhatura,3546,vegetarian,20,20,spicy,main course,Punjab,3,56
+Bhindi masala,7678,vegetarian,20,30,spicy,main course,Punjab,4,63
+Biryani,8789,non vegetarian,30,120,spicy,main course,Telangana,3,566
+Butter chicken,4524,non vegetarian,10,35,spicy,main course,NCT of Delhi,4,46
+Chana masala,2342,vegetarian,20,30,spicy,main course,Punjab,3,78
+Chapati,2424,vegetarian,10,10,spicy,main course,Maharashtra,4,87
+Chicken razala,5657,non vegetarian,10,35,spicy,main course,West Bengal,2,76
+Chicken Tikka masala,7676,non vegetarian,10,50,spicy,main course,Punjab,3,65
+Chicken Tikka,5675,non vegetarian,120,45,spicy,starter,Punjab,4,78
+Chole bhature,6577,vegetarian,20,30,spicy,main course,Punjab,3,65
+Daal baati churma,5646,vegetarian,10,90,spicy,main course,Rajasthan,5,54
+Daal puri,7677,vegetarian,30,30,spicy,main course,West Bengal,3,2
+Dal makhani ,4645,vegetarian,10,60,sweet,main course,Punjab,2,65
+Dal tadka,3522,vegetarian,10,30,spicy,main course,Punjab,4,34
+Dum aloo,3565,vegetarian,20,50,spicy,main course,Jammu & Kashmir,3,546
+Poha,4356,vegetarian,20,30,spicy,snack,Maharashtra,3,867
+Fara,6786,vegetarian,10,60,spicy,snack,Chhattisgarh,4,56
+Kachori,4535,vegetarian,30,60,spicy,snack,Uttar Pradesh,5,534
+Kadai paneer,3543,vegetarian,20,30,spicy,main course,Punjab,3,3
+Kadhi pakoda,3545,vegetarian,10,60,spicy,main course,Haryana,2,45
+Karela bharta,6786,vegetarian,20,50,bitter,main course,Punjab,3,77
+Khichdi,5433,vegetarian,40,20,spicy,main course,Punjab,5,54
+Kofta,3243,vegetarian,20,40,spicy,main course,Uttar Pradesh,3,3
+Kulfi falooda,7876,vegetarian,45,25,sweet,dessert,Punjab,2,2
+Lauki ke kofte,4532,vegetarian,20,40,spicy,main course,Uttar Pradesh,3,3
+Lauki ki subji,2343,vegetarian,10,20,spicy,main course,Punjab,4,45
+Litti chokha,4545,vegetarian,45,60,spicy,main course,Bihar,3,32
+Makki di roti sarson da saag,4354,vegetarian,25,30,spicy,main course,Punjab,2,4
+Misi roti,3545,vegetarian,30,30,spicy,main course,Punjab,1,76
+Mushroom do pyaza,3243,vegetarian,10,30,spicy,main course,Punjab,2,4
+Mushroom matar,3546,vegetarian,10,30,spicy,main course,Punjab,1,45
+Naan,5656,vegetarian,60,30,spicy,main course,Punjab,2,7
+Navrattan korma,4656,vegetarian,25,40,spicy,main course,Uttar Pradesh,3,876
+Palak paneer,5342,vegetarian,20,40,spicy,main course,Punjab,5,56
+Paneer butter masala,2443,vegetarian,20,40,spicy,main course,Punjab,5,56
+Paneer tikka masala,4545,vegetarian,20,40,spicy,main course,Punjab,3,6
+Pani puri,3542,vegetarian,15,2,spicy,snack,Punjab,2,6
+Panjeeri,3455,vegetarian,10,25,sweet,dessert,Uttar Pradesh,3,64
+Papad,,vegetarian,5,5,spicy,snack,Punjab,4,45
